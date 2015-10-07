@@ -1,0 +1,64 @@
+========== QuibblerFramework ==========
+
+Dear developer,
+
+This is a simple framework for JavaWeb,
+It just be used for Android web socket
+by Java Servlet.
+
+If you need to use it and include XML
+or JSON function, you can write by your
+-self.
+
+You can improve or update some function
+that you need, and push it to Github.
+
+Well, if you have some question, you can
+mail to Amoi_Wu@icloud.com. Also you find
+bugs, please mail to me
+
+Just want to write something that easy-to
+-use. Have fun!
+
+AmoiWu
+
+========== QuibblerFramework ==========
+
+Here are some example that help you.
+
+1.You should copy the module or zip a jar,
+  and include in your project.
+
+2.Set some strings for database connect in
+  your web.xml.
+
+  Some Strings like this
+
+    <context-param>
+        <param-name>DBUrl</param-name>
+        <param-value>jdbc:mysql://172.16.51.132:3306/</param-value>
+    </context-param>
+    <context-param>
+        <param-name>DBName</param-name>
+        <param-value>TravelerControlServer</param-value>
+    </context-param>
+    <context-param>
+        <param-name>DBUser</param-name>
+        <param-value>root</param-value>
+    </context-param>
+    <context-param>
+        <param-name>DBPassword</param-name>
+        <param-value>000000</param-value>
+    </context-param>
+
+3.Use the base class to make the project
+  easy coding.
+
+========== QuibblerFramework ==========
+
+Copyright 2015, Author by AmoiWu.
+E-Mail, Amoi_Wu@icloud.com
+
+========== QuibblerFramework ==========
+
+QuibblerFramework is under the BSD License.
